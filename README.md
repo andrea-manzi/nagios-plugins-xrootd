@@ -13,7 +13,6 @@ The probes runs the following passive checks in sequence:
   * LsDir: list the folder 
   * Put: put a test file
   * Ls: list the file previously copied
-  * GetTurl: get the TURL for the file previously copied
   * Get: copy the file locally and check if content matches
   * Del: delete the file
 
