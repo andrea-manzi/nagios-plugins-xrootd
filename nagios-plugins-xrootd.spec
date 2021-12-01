@@ -20,7 +20,6 @@ BuildArch: noarch
 BuildRequires:  cmake
 Requires:   nagios%{?_isa}
 Requires:   python%{?_isa}
-Requires:   openldap-clients
 Requires:   gfal2-python%{?_isa}
 Requires:   python-nap
 Requires:   gfal2-plugin-file
